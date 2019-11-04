@@ -4,6 +4,6 @@ class Main {
 
 		int yearNum = Integer.parseInt(year);
 
-		System.out.println(yearNum)
+		System.out.println(yearNum);
 	}
 }
